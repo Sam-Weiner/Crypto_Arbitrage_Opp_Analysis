@@ -22,7 +22,12 @@ By looking at the summary statistics for the 28th, we can see that it was an ext
 
 By the end of the day, one trader buying one Bitcoin on Coinbase and immediately selling on Bitstamp every minute there was a profitable opportunity above the one percent threshold could have made just shy of $350,000.  
 
-However, the other two days were not nearly as fruitful. The selection of February 20th and March 22nd were relatively arbitrary, as the 3 month graph didn't show any days other periods of sustained divergence in price. it turns out that there was one profitable trade on February 20th, an outlier during that days trading.
+However, the other two days were not nearly as fruitful. The selection of February 20th and March 22nd were relatively arbitrary, as the 3 month graph didn't show any days other periods of sustained divergence in price. it turns out that there was one profitable trade on February 20th, an outlier during that day's trading.
 
 ![feb20boxplot](Resources/Images/feb20boxplot.PNG)
 
+There were no profitable trades that exceeded the one percent threshold on the final day that I analyzed, March 22nd.
+
+## Summary
+
+As far as the hypothesis went, I think it was borne out in the data. While clearly there are massive opportunities to be had in exploiting arbitrage, by their nature they don't last long. But I was not expecting such a profitable day as January 28th, which shows the power of recognizing arbitrage opportunities, and why it makes sense to track markets where one thinks they may arise.
