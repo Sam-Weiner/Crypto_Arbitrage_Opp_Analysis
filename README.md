@@ -1,4 +1,4 @@
-# UCB_Fintech_Challenge_3
+# Arbitrage Opportunities in Crypto Analysis
 ## Financial Analysis with Pandas
 >In this analysis I chose 3 different dates from the period lasting from 01/01/2018 to 03/31/2018.  
 The purpose of the analysis was to determine whether there were any arbitrage opportunities between two different cryptocurrency market places for Bitcoin, Bitstamp and Coinbase.  
